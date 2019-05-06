@@ -140,12 +140,12 @@ img {
 .course-pad h1 {
     position: absolute; 
 
-    right: 66px;
-    top: 39px;
+    right: 13px;
+    top: 44px;
     
     letter-spacing: 0.5px;
     font-family: Garamond; 
-    font-size: 46px;
+    font-size: 34px;
     font-weight: 600;
 }
 
