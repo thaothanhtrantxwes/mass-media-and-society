@@ -108,6 +108,8 @@ img {
     position: absolute;
     z-index: -1;
     content: "";
+	
+	user-select: auto;
     
     left: 0px;
     bottom: 0px;
